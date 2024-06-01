@@ -39,7 +39,7 @@ const projectList = [
   {
     title: "Dynamic Login Form",
     description: "I have created a Dynamic Login Page, using HTML,CSS and basics of JavaScript.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+    url: "../images/DynamicLog.jpeg",
   },
 ];
 
